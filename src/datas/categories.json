@@ -1,0 +1,86 @@
+[
+    {
+        "id": 2,
+        "title": "Et & Tavuk & Şarküteri",
+        "img": "https://cdnd-tr.ceptesok.com/category/216x240/ettavukhindi@2x.png",
+        "category_breadcrumb": "Et & Tavuk & Şarküteri"
+    },
+    {
+        "id": 3,
+        "title": "Süt & Süt Ürünleri",
+        "img": "https://cdnd-tr.ceptesok.com/category/216x240/yogurtsuturunleri@2x.png",
+        "category_breadcrumb": "Süt & Süt Ürünleri"
+    },
+    {
+        "id": 4,
+        "title": "Kahvaltılık",
+        "img": "https://cdnd-tr.ceptesok.com/category/216x240/kahvaltilik@2x.png",
+        "category_breadcrumb": "Kahvaltılık"
+    },
+    {
+        "id": 5,
+        "title": "Ekmek & Pastane",
+        "img": "https://cdnd-tr.ceptesok.com/category/216x240/unlumamuller@2x.png",
+        "category_breadcrumb": "Ekmek & Pastane"
+    },
+    {
+        "id": 6,
+        "title": "Dondurulmuş Ürünler",
+        "img": "https://cdnd-tr.ceptesok.com/category/216x240/dondurulmus@2x.png",
+        "category_breadcrumb": "Dondurulmuş Ürünler"
+    },
+    {
+        "id": 7,
+        "title": "Yemeklik Malzemeler",
+        "img": "https://cdnd-tr.ceptesok.com/category/216x240/yemeklikmalzemeleri@2x.png",
+        "category_breadcrumb": "Yemeklik Malzemeler"
+    },
+    {
+        "id": 8,
+        "title": "Atıştırmalık",
+        "img": "https://cdnd-tr.ceptesok.com/category/216x240/atistirmalik@2x.png",
+        "category_breadcrumb": "Atıştırmalık"
+    },
+    {
+        "id": 10,
+        "title": "Kişisel Bakım & Kozmetik",
+        "img": "https://cdnd-tr.ceptesok.com/category/216x240/kisiselbakim@2x.png",
+        "category_breadcrumb": "Kişisel Bakım & Kozmetik"
+    },
+    {
+        "id": 11,
+        "title": "Temizlik",
+        "img": "https://cdnd-tr.ceptesok.com/category/216x240/temizlik@2x.png",
+        "category_breadcrumb": "Temizlik"
+    },
+    {
+        "id": 12,
+        "title": "Anne-Bebek & Çocuk",
+        "img": "https://cdnd-tr.ceptesok.com/category/216x240/bebekurunleri@2x.png",
+        "category_breadcrumb": "Anne - Bebek & Çocuk"
+    },
+    {
+        "id": 13,
+        "title": "Kağıt Ürünleri",
+        "img": "https://cdnd-tr.ceptesok.com/category/216x240/kagit@2x.png",
+        "category_breadcrumb": "Kağıt Ürünleri"
+    },
+    {
+        "id": 16,
+        "title": "Giyim & Aksesuar",
+        "img": "https://cdnd-tr.ceptesok.com/category/216x240/giyim@2x.png",
+        "category_breadcrumb": "Giyim & Ayakkabı & Aksesuar"
+    },
+    {
+        "id": 17,
+        "title": "Ev & Yaşam",
+        "img": "https://cdnd-tr.ceptesok.com/category/216x240/evyasam@2x.png",
+        "category_breadcrumb": "Ev & Yaşam"
+    },
+    {
+        "id": 15,
+        "title": "Elektronik",
+        "img": "https://cdnd-tr.ceptesok.com/category/216x240/elektronik@2x.png",
+        "category_breadcrumb": "Elektronik"
+    }
+]
