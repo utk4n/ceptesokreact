@@ -1,4 +1,3 @@
-import React from "react";
 import StoreInfo from "../components/StoreInfo/StoreInfo";
 import Banner from "../components/BannerContent/Banner";
 import Section from "../components/Section/Section";
