@@ -24,7 +24,7 @@ const productSlice = createSlice({
       state.status = "Pending...";
     },
     [getProducts.fulfilled]: (state, action) => {
-      state.products = [action.payload];
+      state.products = action.payload;
       state.status = "Loading...";
     },
     [getProducts.rejected]: (state, action) => {

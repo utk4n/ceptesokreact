@@ -8,6 +8,8 @@ import Home from "./pages/Home";
 import ProductsDetail from "./pages/ProductsDetail";
 import SignIn from "./components/SignIn/SignIn";
 import SignUp from "./components/SignUp/SignUp";
+import BasketPage from "./pages/BasketPage";
+import MyFavourites from "./pages/MyFavourites";
 function App() {
   return (
     <div>
@@ -18,6 +20,9 @@ function App() {
         <Route path=":id" element={<ProductsDetail />} />
         <Route path="/signin" element={<SignIn />} />
         <Route path="/signup" element={<SignUp />} />
+        <Route path="/basket" element={<BasketPage />} />
+        <Route path="/myfavourites" element={<MyFavourites />} />
+        
       </Routes>
       <Modal />
       <Footer />

@@ -4,15 +4,14 @@ import logo from "../../assets/brandlogo/soklogo.svg";
 import { Link } from "react-router-dom";
 const Footer = () => {
   return (
-    <div className="w-full bg-primary">
-      <div className="grid grid-cols-4 px-10 py-5 gap-4 bg-primary">
+    <div className="w-full bg-primary ">
+      <div className="grid grid-cols-4 px-10 py-5 gap-10 bg-primary">
         <div className="ml-1">
-          <div>
-            <h3 className="font-bold mb-3">Kategoriler</h3>
-          </div>
-          <div className="grid grid-cols-2 leading-10">
-            {dataCategories.map((item) => (
-              <Link to={`categories/${item.category_breadcrumb}`}>
+          <h3 className="font-bold mb-3">Kategoriler</h3>
+
+          <div className="grid leading-8">
+            {dataCategories.map((item, index) => (
+              <Link key={index} to={`categories/${item.category_breadcrumb}`}>
                 <span>{item.title}</span>
               </Link>
             ))}
